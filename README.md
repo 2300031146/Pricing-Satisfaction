@@ -1,5 +1,4 @@
-# Critical Failure
-
+# Pricing vs Satisfaction
 ## Project Overview
 
 This project focuses on identifying products that represent critical business failures by combining pricing, customer satisfaction, financial risk, and sales performance metrics. The analysis helps uncover products that are overpriced, poorly rated, financially risky, and underperforming in sales, enabling data-driven corrective actions.
